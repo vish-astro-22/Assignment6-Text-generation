@@ -5,3 +5,4 @@
 * Raw text is preprocessed and prepared into nearly 1.2 lakhs padded sequence patterns.
 * For training input sequence consists of characters and output contains the next character for the given sequence input. It works like a language model.
 * The model is trained using LSTMs and for 100 epochs in `Keras`
+* Check out the IPython Notebook [text_generation_assignment_using_LSTMs.ipynb](https://github.com/vish-astro-22/Assignment6-Text-generation/blob/master/text_generation_assignment_using_LSTMs.ipynb)
